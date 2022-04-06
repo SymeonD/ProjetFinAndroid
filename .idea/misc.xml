@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.36614583333333334" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.36614583333333334" />
+        <entry key="app/src/main/res/drawable/list_view_rounded.xml" value="0.36614583333333334" />
+        <entry key="app/src/main/res/layout-v17/activity_exercice_timed.xml" value="0.11828774062816616" />
+        <entry key="app/src/main/res/layout/activity_add_user.xml" value="0.35" />
+        <entry key="app/src/main/res/layout/activity_end.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_erreur.xml" value="0.35" />
+        <entry key="app/src/main/res/layout/activity_exercice_addition.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_exercice_calcul.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_exercice_multiplication.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_exercice_timed.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_exercices.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_felicitation.xml" value="0.35" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_table_multiplication.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.12182971014492754" />
+        <entry key="app/src/main/res/layout/templat_calcul.xml" value="0.35" />
+        <entry key="app/src/main/res/layout/template_calcul.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/template_exercice.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/template_user.xml" value="0.35" />
+        <entry key="app/src/main/res/layout/template_utilisateur.xml" value="0.19375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

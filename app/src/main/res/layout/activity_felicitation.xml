@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ExerciceCalcul.FelicitationActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/exercice5_erreur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Felicitations"
+        android:textSize="25dp"
+        android:layout_margin="15dp"
+        android:layout_gravity="center" />
+
+    <Button
+        android:id="@+id/change_table"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choisir une autre table"
+        android:onClick="change_table"
+        android:layout_margin="15dp"
+        android:layout_gravity="center" />
+
+    <Button
+        android:id="@+id/change_ex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choisir un autre exercice"
+        android:onClick="change_ex"
+        android:layout_margin="15dp"
+        android:layout_gravity="center" />
+</LinearLayout>
